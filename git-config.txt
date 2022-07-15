@@ -1,0 +1,13 @@
+git config --global user.name 'Diego Arriagada'
+git config --global user.email diegoarriagadazamora@gmail.com
+git config --list
+
+git clone
+git init
+git add
+git status
+git commit
+git log
+git push
+git remote
+git pull
