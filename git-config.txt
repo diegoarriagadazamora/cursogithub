@@ -8,7 +8,7 @@ git add
 git status
 git commit -m "descripcion"
 git log
-git push
 git remote add origin https://github.com/diegoarriagadazamora/cursogithub.git
 git remote -v
-git pull
+git push origin master
+git pull origin master
