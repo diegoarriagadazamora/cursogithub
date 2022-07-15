@@ -6,7 +6,7 @@ git clone
 git init
 git add
 git status
-git commit
+git commit -m "descripcion"
 git log
 git push
 git remote
